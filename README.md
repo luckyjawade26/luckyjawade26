@@ -27,8 +27,6 @@ An enthusiastic student developer passionate about software engineering, buildin
 ### ⚡ Fun Fact
 - I use AI not just to write code, but to understand how to debug and optimize it faster! 🚀
 -
-# 💫 About Me:
-## ## Hi there, I'm Lucky! 👋<br><br>An enthusiastic student developer passionate about software engineering, building smart tools, and exploring the future of AI.<br><br>---<br><br>### 🚀 What I'm Up To<br>- 🔭 **I’m currently working on:** Building personal projects using Python and exploring logic building.<br>- 🌱 **I’m currently learning:** Data Structures & Algorithms (DSA), C, and Web Development basics.<br>- ⚡ **Special Interest:** Leveraging AI tools for automation, efficient code debugging, and building AI-driven sites.<br>- 💼 **Looking for:** Internship opportunities to learn, contribute, and grow with industry experts.<br><br>---<br><br>### 🛠️ Tech Stack & Tools<br>- **Languages:** Python, C<br>- **Interests:** AI Automation, Web Dev, Prompt Engineering, Debugging<br><br>---<br><br>### 📫 How to reach me:<br>- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lucky-jawade-18949b393/)<br>- 📧 Shoot me an email at: `luckyjawade83@gmail.com`<br><br>---<br><br>### ⚡ Fun Fact<br>- I use AI not just to write code, but to understand how to debug and optimize it faster! 🚀<br>-
 
 
 ## 🌐 Socials:
@@ -41,6 +39,10 @@ An enthusiastic student developer passionate about software engineering, buildin
 ![](https://streak-stats.demolab.com/?user=luckyjawade26&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=luckyjawade26&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=luckyjawade26&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 [![](https://komarev.com/ghpvc/?username=luckyjawade26&icon=0&color=0)](https://visitcount.itsvg.in)
 
